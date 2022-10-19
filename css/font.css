@@ -1,0 +1,45 @@
+/* CJ ONLY ONE NEW FONT Version2.2*/
+@font-face {
+  font-family: 'CJONLYONENEW';
+  font-style: normal;
+  font-weight: 300;
+  src: url(../fonts/CJONLYONENEWbodyLight_11172.eot);
+  src: url(../fonts/CJONLYONENEWbodyLight_11172.eot?#iefix) format('embedded-opentype'),
+  url(../fonts/CJONLYONENEWbodyLight_11172.woff2) format('woff2'),
+  url(../fonts/CJONLYONENEWbodyLight_11172.woff) format('woff'),
+  url(../fonts/CJONLYONENEWbodyLight_11172.ttf) format('truetype');
+  font-display: block;
+}
+@font-face {
+  font-family: 'CJONLYONENEW';
+  font-style: normal;
+  font-weight: 400;
+  src: url(../fonts/CJONLYONENEWbodyRegular_11172.eot);
+  src: url(../fonts/CJONLYONENEWbodyRegular_11172.eot?#iefix) format('embedded-opentype'),
+  url(../fonts/CJONLYONENEWbodyRegular_11172.woff2) format('woff2'),
+  url(../fonts/CJONLYONENEWbodyRegular_11172.woff) format('woff'),
+  url(../fonts/CJONLYONENEWbodyRegular_11172.ttf) format('truetype');
+  font-display: block;
+}
+@font-face {
+  font-family: 'CJONLYONENEW';
+  font-style: normal;
+  font-weight: 500;
+  src: url(../fonts/CJONLYONENEWtitleMedium_11172.eot);
+  src: url(../fonts/CJONLYONENEWtitleMedium_11172.eot?#iefix) format('embedded-opentype'),
+  url(../fonts/CJONLYONENEWtitleMedium_11172.woff2) format('woff2'),
+  url(../fonts/CJONLYONENEWtitleMedium_11172.woff) format('woff'),
+  url(../fonts/CJONLYONENEWtitleMedium_11172.ttf) format('truetype');
+  font-display: block;
+}
+@font-face {
+  font-family: 'CJONLYONENEW';
+  font-style: normal;
+  font-weight: 600;
+  src: url(../fonts/CJONLYONENEWtitleBold_11172.eot);
+  src: url(../fonts/CJONLYONENEWtitleBold_11172.eot?#iefix) format('embedded-opentype'),
+  url(../fonts/CJONLYONENEWtitleBold_11172.woff2) format('woff2'),
+  url(../fonts/CJONLYONENEWtitleBold_11172.woff) format('woff'),
+  url(../fonts/CJONLYONENEWtitleBold_11172.ttf) format('truetype');
+  font-display: block;
+}
